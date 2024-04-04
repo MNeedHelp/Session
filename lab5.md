@@ -1,6 +1,6 @@
 # Тема 5. Базовые коллекции: множества,списки.
 Отчет по Теме #5 выполнил(а):
-- Галеев Андрей Назарович
+- Борцов Илья Алексеевич
 - ИНО ЗБ ПОАС-22-1
 
 | Задание |  Сам_раб |
@@ -37,7 +37,7 @@ print("Сколько разных людей посетило ресторан:
 print("Какой работник посетил ресторан больше всех раз: ", most_frequent_worker)
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab5/lab5/1.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab5/Lab5/1.png).
 
 
 ## Выводы
@@ -65,7 +65,7 @@ print("Три худших результата: ", bottom_3_results)
 print("Все результаты, начиная с 10: ", results_from_10 [9:])
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab5/lab5/2.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab5/Lab5/2.png).
 
 ## Выводы
 
@@ -106,7 +106,7 @@ print("Минимальная площадь треугольника:", min(are
 print("Максимальная площадь треугольника:", max(areas))
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab5/lab5/3.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab5/Lab5/3.png).
 
 ## Выводы
 
@@ -136,7 +136,7 @@ for i, updated_grades in enumerate(updated_grades_lists, 1):
     print(f"Обновленный массив {i}: {updated_grades}")
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab5/lab5/4.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab5/Lab5/4.png).
 
 ## Выводы
 
@@ -171,7 +171,7 @@ print(result_2)
 print(result_3)
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab5/lab5/5.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab5/Lab5/5.png).
 
 ## Выводы
 
