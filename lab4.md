@@ -1,6 +1,6 @@
 # Тема 4. Функции и стандартные модули/библиотеки
 Отчет по Теме #4 выполнил(а):
-- Галеев Андрей Назарович
+- Борцов Илья Алексеевич
 - ИНО ЗБ ПОАС-22-1
 
 | Задание |  Сам_раб |
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     print(f"Program execution time {timecosts}")
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/1.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab4/Lab4/1.png).
 
 
 ## Выводы
@@ -79,7 +79,7 @@ if __name__ == '__main__':
     rolldice()  
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/2.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab4/Lab4/2.png).
 
 ## Выводы
 
@@ -101,7 +101,7 @@ current_time = datetime.datetime.now()
 print(f"Финальное время: {current_time.strftime('%H:%M:%S')}") 
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/3.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab4/Lab4/3.png).
 
 ## Выводы
 
@@ -124,7 +124,7 @@ if __name__ == '__main__':
     print(f'Среднее арифметическое: {avg}')
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/4.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab4/Lab4/4.png).
 
 ## Выводы
 
@@ -153,7 +153,7 @@ if __name__ == '__main__':
     print(f"Площадь треугольника с сторонами {a}, {b}, {c} равна: {area}")
 ```
 ### Результат.
-![Меню](https://github.com/Iamtheempty/Ucheba/blob/lab4/lab4/5.png).
+![Меню](https://github.com/MNeedHelp/Session/blob/Lab4/Lab4/5.png).
 
 ## Выводы
   
